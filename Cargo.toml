@@ -13,7 +13,7 @@ exclude = ["/.github", "/changeforest-py", "/changeforest-r", "/testdata", ".pre
 name = "changeforest"
 
 [dependencies]
-ndarray = "0.15"
+ndarray = "0.16"
 rand = "0.8"
 biosphere = "0.3.0"
 
